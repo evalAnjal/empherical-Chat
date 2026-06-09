@@ -1,0 +1,6 @@
+@EmphericalChat.backend_HostAddress = http://localhost:5121
+
+GET {{EmphericalChat.backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
