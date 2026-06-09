@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EmphericalChat.backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80a2720156f378bb696f2942a6778d021c9483d7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b76eb5c87f5f6b5079e87da56088393aa2b5696")]
 [assembly: System.Reflection.AssemblyProductAttribute("EmphericalChat.backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EmphericalChat.backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
